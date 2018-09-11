@@ -1,6 +1,6 @@
 # Devops + AWS
 
-Repository contains all Devops + AWS related documents starting from Installation steps to configuaration steps for all devops related tools.
+Repository contains all Devops + AWS related documents starting from Installation steps to configuaration steps for all devops related tools and Architecture for Projects.
 
 Devops Tools:
 

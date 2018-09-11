@@ -1,4 +1,4 @@
-# Devops
+# Devops + AWS
 
 Repository contains all Devops related documents starting from Installation steps to configuaration steps for all devops related tools and techniques
 

@@ -14,7 +14,7 @@ Devops Tools such as,
 8. JFrog Artifactory - Artifact Repository
 9. Sonarqube - Continuous Inspection(Code report)
 10. Jenkins - Continuous Intergration
-11. AWS Code Build - Continuous Integration and Build
+11. AWS Code Build - Build and Test
 12. Selenium - Continuous Testing
 13. Chef - Configuration Management - Infrastructure as a Code
 14. Ansible - Configuration Management - Infrastructure as a Code
@@ -33,3 +33,4 @@ Devops Tools such as,
 27. AWS XRay - Continuous Monitoring
 28. JIRA - Agile Management
 29. Slack - Communication
+30. AWS Code Star - Unified CI/CD

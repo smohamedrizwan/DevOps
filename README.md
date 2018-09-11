@@ -1,8 +1,8 @@
 # Devops + AWS
 
-Repository contains all Devops related documents starting from Installation steps to configuaration steps for all devops related tools and techniques
+Repository contains all Devops + AWS related documents starting from Installation steps to configuaration steps for all devops related tools.
 
-Devops Tools such as,
+Devops Tools:
 
 1. Github - Source Control Management
 2. Gitlab - Source Control Management

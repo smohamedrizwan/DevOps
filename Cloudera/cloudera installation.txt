@@ -1,0 +1,36 @@
+yum install wget
+
+**disable selinux on all nodes.**
+vi /etc/selinux/config
+
+wget http://archive.cloudera.com/cm5/installer/latest/cloudera-manager-installer.bin
+
+chmod +x cloudera-manager-installer.bin
+
+./cloudera-manager-installer.bin
+
+username:admin
+password:admin
+
+UBUNTU SELINUX:
+
+sudo /etc/init.d/apparmor stop
+sudo apt purge apparmor
+sudo apt update && upgrade -yuf
+sudo reboot
+
+INSTALL SELINUX:
+
+sudo apt install selinux
+sudo reboot
+
+sudo su
+setenforce 1
+sestatus
+
+172.31.40.26
+172.31.33.189
+172.31.47.51
+172.31.43.160
+
+cd /opt/cloudera/parcels/.flood/CDH-5.14.2-1.cdh5.14.2.p0.3-xenial.parcel/
